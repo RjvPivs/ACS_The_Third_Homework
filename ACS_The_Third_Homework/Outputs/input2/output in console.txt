@@ -1,0 +1,7 @@
+Now we are ready to start!
+Input file does exist
+Output file 1 does exist
+Output file 2 does exist
+The type of structure was incorrect.
+In this time the program will execute the random filling method to continue the current launch.
+This is the end of our journey. Thank you for joining us today!
